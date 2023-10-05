@@ -1,7 +1,9 @@
 # BooksStore
-# simple Api
+
 please install:
 
-pip install djangorestframework
-pip install django-filter
-pip install django
+- pip install djangorestframework
+- pip install django-filter
+- pip install django
+
+and then make the migrations and migrate
